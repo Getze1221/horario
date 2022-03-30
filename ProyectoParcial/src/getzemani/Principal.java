@@ -12,11 +12,7 @@ public class Principal {
 	static MetodosNumericos metodos = new MetodosNumericos();
 	static BaseDeDatos base = new BaseDeDatos();
 	static ProgramacionDeSistemas pSistemas = new ProgramacionDeSistemas();
-	package getzemani;
 
-	public class Principal {
-
-	}
 
 	public static void main(String[] args) {
 		paradigmas.nombre();
